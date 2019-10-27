@@ -27,14 +27,7 @@ Create a react app that displays all the student names, where the following happ
 
 ____
 
-for your intial state use the following :
-````
-state = {
-    className: "",
-    content: "",
-    image:
-      "https://cdn0.iconfinder.com/data/icons/characters-2-2-outlined/227/hulk-superhero-marvel-character-avatar-smileface-profile-512.png"
-  };
+for your intial state use the following image :
+ "https://cdn0.iconfinder.com/data/icons/characters-2-2-outlined/227/hulk-superhero-marvel-character-avatar-smileface-profile-512.png"
 
-````
 
