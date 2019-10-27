@@ -6,18 +6,18 @@
 Create a react app that displays all the student names, where the following happens:
 
 #### 1)
-  - If you click on a name it turns red.
+  - If you click on a name it turns **red**.
   - The following image is displayed (http://getdrawings.com/free-icon-bw/hulk-icon-21.png)
   - The message `I am the mighty _student_name, How dare you touch me!!?` is displayed under it. 
 
 #### 2)
-  - If you right click on a name it turns blue. 
+  - If you right click on a name it turns **blue**. 
   - The following image is displayed (https://cdn11.bigcommerce.com/s-sq9zkarfah/images/stencil/350x350/products/117228/204948/Hulk-379-Decal-Sticker__73044.1511165171.jpg?c=2)
   - The message `Stop. Poking. Around!!` is displayed under it. 
 
 
 #### 3)
-  - If you double click a name it turns green.
+  - If you double click a name it turns **green**.
   - The following image is displayed (https://cdn11.bigcommerce.com/s-sq9zkarfah/images/stencil/1280x1280/products/85440/182141/Hulk-Fist-Decal-Sticker__21739.1511149680.jpg?c=2?imbypass=on)
   - The message `STOP IT!!!`  is displayed under it.
    
