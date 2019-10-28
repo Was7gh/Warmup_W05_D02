@@ -43,3 +43,12 @@ ____
 
 
 ***note*** The css file and the student names have been created for you ! 
+in your newly created component , wrap the element with the following div tags 
+
+```
+ <div className="container">
+        <div className="card">
+          <li>
+
+</li>
+```
